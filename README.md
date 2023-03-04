@@ -16,11 +16,11 @@ The Friends Fan Page is a responsive website developed using HTML5 and CSS3, aim
 - <b>Windows 10</b> (21H2)
 <h2>IDE used</h2>
 
-- <b>Visual Studio Code (V 1.76)</b> (21H2)
+- <b>Visual Studio Code (V 1.76)</b> 
 
 <h2>Program walk-through:</h2>
 <h3>The main page</h3>
-<img src="hhttps://github.com/Sunny-Neethu/Sunny-Neethu/blob/main/images/ffp.PNG" height="80%" width="80%" alt="ffp-main"/>
+<img src="https://github.com/Sunny-Neethu/Sunny-Neethu/blob/main/images/ffp.PNG" height="80%" width="80%" alt="ffp-main"/>
 
 <p align="center">
 Download the code and extract it.
